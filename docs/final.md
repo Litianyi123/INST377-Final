@@ -7,7 +7,7 @@ This rest of the document is a brief description of your final presentation.
 - Prince George's Couty Public Service
 
 #### Team members
-
+Eymen Yagar,Eltayeb Abdelrahman, Kenny Akinnuoye, Paras Devkota, Tianyi Li
 
 #### Link to where your app is running
 
@@ -15,11 +15,14 @@ This rest of the document is a brief description of your final presentation.
 
 #### Information problem you're trying to solve
 
-- (Type answer here)
+- We observe that in our own communities that there may be an unequal distribution in public services which of course limits access for many people. 
 
 #### Identified stakeholders/target browsers
 
-- Our stakeholder is the PG County Officials who will need to make changes in their services if needed. Since the data is about PG county we located all thier public services and if they are not evenly distributed our stakeholders can make a change and improve it for the citizens of PG county.
+- The PG county as they are the county we will focus on
+- The elected officials of the county
+- The residents of the county
+
 
 #### Data you chose to work with
 
@@ -31,7 +34,7 @@ This rest of the document is a brief description of your final presentation.
 
 #### Chosen strategies and solutions for the problem
 
-- (Type answer here)
+- We try to build an interactive map that utilizes the locations of libraries, recreation centers, fire stations, and police stations within Prince George’s (PG) county. 
 
 #### Technical system decision rationale
 
@@ -48,8 +51,7 @@ This rest of the document is a brief description of your final presentation.
 
 #### Possible future work directions with this problem
 
-- One possible future work is incorparating this state wide and observing services at a state level and see the differences between counties.
-- Another one is maybe we could dive deeper in the other facilities that are offered
+- It can include more facilities for our users, like parking lot and community center.
 
 Documentation needs to be written in Markdown (MD) files, nicely formatted
 Documentation should be included to each team’s final code submission.
